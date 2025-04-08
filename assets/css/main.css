@@ -1119,8 +1119,8 @@ ul.nav-tabs {
 
 .product .btn-cart a {
   padding: 10px 14px;
+  background: #CB2027;
   /* background: #CB2027; */
-  background: #f19000;
   color: #fff;
 }
 
@@ -1128,7 +1128,7 @@ ul.nav-tabs {
   border: 0;
   padding: 10px 14px;
   /* background: #CB2027; */
-  background: #f19000;
+  background: #CB2027;
   color: #fff;
 }
 
