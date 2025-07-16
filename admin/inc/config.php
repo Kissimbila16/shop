@@ -9,7 +9,7 @@ date_default_timezone_set('America/Los_Angeles');
 $dbhost = 'localhost';
 
 // Database Name
-$dbname = 'dona_alicia_shop_db';
+$dbname = 'if0_38703792_smart';
 
 // Database Username
 $dbuser = 'root';
